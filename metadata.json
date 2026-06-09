@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Personal Website and Workspace",
+  "description": "A highly-polished personal homepage, interactive professional portfolio, and daily organization dashboard with offline task tracking, journal notes, and minimalist aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
